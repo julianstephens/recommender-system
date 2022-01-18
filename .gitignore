@@ -1,0 +1,4 @@
+.idea/*
+.ipynb_checkpoints/*
+pyrightconfig.json
+data/ratings_train_tiny.csv
